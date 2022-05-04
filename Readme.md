@@ -6,8 +6,28 @@
 ### Stock performance between 2017 and 2018
 &nbsp;&nbsp;&nbsp;&nbsp;The analyze shows us to year 2017 was much better in return performance than the year 2018. This resulted was achieved by the comparison of starting and ending prices of the indivual stocks during a year period. Results shown in png files.
 ### Initial code Vs Refactored Code Performance
-&nbsp;&nbsp;&nbsp;&nbsp;Initial code was working and gave us the results that we desire to see. However its efficiency is not as much as expected to work on larger datasets and more stocks. Since we work only a dozen of indivual stocks its hard to get results. Then we refactored the code that gives us much quick and same analyze. Refactored code is almost six times faster than the first one (it may vary on larger groups but still faster). Instead of nested loops and look over and over the same groups, we create a single loop and increasment state based on specific conditions. 
-These are two images that the results for each year and also the time that pass to execute the code. 
+&nbsp;&nbsp;&nbsp;&nbsp;The initial code for our standard yearly analysis was functional and gave us desired results but it leaves a user and programmer wondering if it can be done better.The efficiency of the code is in question here and although our results are small as is as well as, when refactoring the time shaved is even smaller we must remember that its due to the size of the dataset that should be taken into consideration when addressing time complexity. Therefore, we refactored the code that gives us much quick and same analyze. Refactored code is almost six times faster than the first one (it may vary on larger groups but still faster). Instead of nested loops and look overs the same groups, we create a single loop and increasment state based on specific conditions.  
+<br>
+These are images that the results for each year and also the time that pass to execute the code:
+- #### Standard Analysis
+<p align="center">  
+<img src="https://github.com/KdotGhai/stocks_analysis/blob/f0bf79fc445df299918800bfb7c7c94dfbea8a08/Images/VBA_2017_Standard_Year_Analysis.png" />
+  <br>  </br>
+</p>
+<p align="center">  
+<img src="https://github.com/KdotGhai/stocks_analysis/blob/f0bf79fc445df299918800bfb7c7c94dfbea8a08/Images/VBA_2018_Standard_Year_Analysis.png" />
+  <br>  </br>
+</p>
+
+- #### Refactored Analysis
+<p align="center">  
+<img src="https://github.com/KdotGhai/stocks_analysis/blob/f0bf79fc445df299918800bfb7c7c94dfbea8a08/Images/VBA_2017_Refactored_Year_Analysis.png" />
+  <br>  </br>
+</p>
+<p align="center">  
+<img src="https://github.com/KdotGhai/stocks_analysis/blob/f0bf79fc445df299918800bfb7c7c94dfbea8a08/Images/VBA_2018_Standard_Year_Analysis.png" />
+  <br>  </br>
+</p>
 
 
 
