@@ -25,7 +25,7 @@ These are images that the results for each year and also the time that pass to e
   <br>  </br>
 </p>
 <p align="center">  
-<img src="https://github.com/KdotGhai/stocks_analysis/blob/f0bf79fc445df299918800bfb7c7c94dfbea8a08/Images/VBA_2018_Standard_Year_Analysis.png" />
+<img src="https://github.com/KdotGhai/stocks_analysis/blob/8736dc83eaeac52683952dfe46d760634a4fc6ae/Images/VBA_2018_Refactored_Year_Analysis.png" />
   <br>  </br>
 </p>
 
